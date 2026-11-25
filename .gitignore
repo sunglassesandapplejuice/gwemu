@@ -5,6 +5,7 @@
 /sdk/
 /.cache/
 /.vscode/
+/.idea/
 *.pyc
 .sdk
 .stgit-*
